@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fwalid-salah\u002F_nuxt\u002Fstatic\u002F1672255210",layout:"default",error:a,state:{store:{}},serverRendered:true,routePath:"\u002FMyportfolio",config:{_app:{basePath:"\u002Fwalid-salah\u002F",assetsPath:"\u002Fwalid-salah\u002F_nuxt\u002F",cdnURL:a}}}}(null));
